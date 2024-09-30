@@ -1,0 +1,29 @@
+# Ignore Visual Studio specific folders/files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.ncb
+*.opendb
+*.VC.db
+ipch/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.pri
+Debug/
+Release/
+
+# Ignore SQL Server related files
+*.mdf
+*.ldf
+
+# Ignore general build files
+bin/
+obj/
+
+# Ignore other files
+*.log
